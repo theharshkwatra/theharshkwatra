@@ -12,8 +12,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github,postman,vercel,figma&perline=9" />
 </p>
-
-<p>
-  NumPy • Pandas • Scikit-learn • Matplotlib
-</p>
-
