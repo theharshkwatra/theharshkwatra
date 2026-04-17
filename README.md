@@ -1,6 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harsh</h1>
 
-# 💫 About Me:
+<hr>
+
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+
+## 💫 About Me:
 🔭 I’m currently working on SecondOpinion<br>🌱 I’m currently learning : Building AI systems using Agentic AI, RAG & LangGraph<br>💬 Ask me about MERN<br>📫 How to reach me hkwatra_be23@thapar.edu
 
 
