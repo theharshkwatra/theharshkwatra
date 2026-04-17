@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 
-<hr>
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
